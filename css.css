@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 10px;
+    max-width: 800px;
+    min-width: 400px;
+    
+   
+    
+}
+
+.contianer {
+    max-width: 800;
+    min-width: 400;
+    padding: 10px;
+    background-color: #601cfc;
+    width: 50%;
+    border: 5px solid black;
+
+}
+
+.title {
+    max-width: 100%;
+    padding: 10px;
+    border: 4px solid black;
+    color: azure;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 100%;
+    height: 50%;
+    border: 4px solid black;
+    margin-bottom: 10px;
+}
+
+p , li {
+    color: greenyellow;
+}
+
+hr {
+    border: 2px solid black;
+    margin: 10px 0;
+}
+
+ul li strong {
+    color: black;
+}
+
+.frist-p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: greenyellow;
+}
+li {
+    list-style: none;
+    
+}
+
+
+
